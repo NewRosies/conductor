@@ -14,6 +14,4 @@ module Conductor::ApplicationHelper
     end          
   end
       
-  end
-
 end
